@@ -1,0 +1,25 @@
+{
+  "name": "nl.codeyellow.signature",
+  "version": "0.0.3",
+  "description": "\n    Native view plugin to request and capture the user's written\n    signature.  Currently contains a native Android implementation and\n    a pure JS fallback implementation for other devices (including\n    desktop browsers).\n  ",
+  "cordova": {
+    "id": "nl.codeyellow.signature",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjonas4356/cordova-plugin-signature-view.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "netinhoteixeira",
+  "license": "Apache 2.0 License",
+  "bugs": {
+    "url": "https://github.com/mjonas4356/cordova-plugin-signature-view/issues"
+  },
+  "homepage": "https://github.com/mjonas4356/cordova-plugin-signature-view#readme"
+}

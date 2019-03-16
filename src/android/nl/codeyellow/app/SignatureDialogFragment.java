@@ -182,7 +182,7 @@ public class SignatureDialogFragment extends DialogFragment {
 
         return dialog;
     }
-
+/***
     @Override
     public void onCancel(DialogInterface dialog) {
         super.onCancel(dialog);
@@ -196,5 +196,5 @@ public class SignatureDialogFragment extends DialogFragment {
 
         getActivity().setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_PORTRAIT);
     }
-
+*/
 }

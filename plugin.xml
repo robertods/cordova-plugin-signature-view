@@ -2,7 +2,7 @@
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
     xmlns:android="http://schemas.android.com/apk/res/android"
     id="nl.codeyellow.signature"
-    version="0.1">
+    version="0.3">
   <name>Signature view plugin</name>
   <license>Apache 2.0 License</license>
   <author>Code Yellow B.V.</author>
@@ -41,8 +41,6 @@
 		<clobbers target="cordova.plugins.webp"/>
 	</js-module>
 	-->
-	
-	<dependency id="org.apache.cordova.device" />
 	
 	<!-- android -->
 	<platform name="android">
