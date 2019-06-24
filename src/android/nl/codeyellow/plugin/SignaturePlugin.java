@@ -25,10 +25,10 @@ public class SignaturePlugin extends CordovaPlugin {
 
         if (action.equals("new")) {
 
-            String title = "Podepište se prosím";
+            String title = "Por favor firme debajo";
             String htmlFile = null;
-            String save = "Uložit";
-            String clear = "Smazat";
+            String save = "Guardar";
+            String clear = "Limpiar";
 /*
             if (args.length() >= 4) {
                 htmlFile = args.getString(3);
