@@ -1,6 +1,8 @@
 Cordova Signature View plugin
 =============================
 
+Original: https://github.com/netinhoteixeira/cordova-plugin-signature-view
+
 This plugin provides a simple "pad" for requesting a user's signature
 which you can use in Cordova/Phonegap applications.  For efficiency
 reasons, the pad is implemented natively where available (currently
